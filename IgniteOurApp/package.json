@@ -1,0 +1,24 @@
+{
+  "name": "episode-01",
+  "version": "1.0.0",
+  "description": "this is namste React by mohit",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohitsinghparmarg/Episode-01-Inception.git"
+  },
+  "keywords": [],
+  "author": "mohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohitsinghparmarg/Episode-01-Inception/issues"
+  },
+  "homepage": "https://github.com/Mohitsinghparmarg/Episode-01-Inception#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
